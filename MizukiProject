@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>浠Mizuki非公式サイト</title>
+        <style>
+            header {margin: 2%;}
+
+            ul {list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: rgb(246, 190, 205);}
+            li {float: left;}
+            li a {display: block;
+                  color: rgb(80, 78, 78);
+                  text-align: center;
+                  padding:15px 90px;
+                  text-decoration: none;}
+            li a:hover {background-color: rgba(176, 252, 246, 0.897);}
+
+            main{float: left; 
+                 width: 50%; 
+                 height: 300px; 
+                 margin: 1%;}
+
+            aside{float: left; 
+                  width: 45%; 
+                  height: 326px; 
+                  margin: 1%; 
+                  background: rgba(199, 199, 199, 0.295);}
+
+            footer{clear: left; 
+                   margin: 5%; 
+                   padding:10px;}
+        </style>
+    </head>
+    <body>
+        <nav>
+              <ul>
+                <li><a class="active" href="https://www.youtube.com/c/浠MizukiChannel/featured" target="_biank">小浠YT</a></li>
+                <li><a href="https://twitter.com/MizukiVtuberTW"  target="_biank">小浠Twitter</a></li>
+                <li><a href="https://www.facebook.com/MizukiVtuber/"  target="_biank">小浠FB</a></li>
+                <li><a href="https://discord.com/invite/M3NpxhCPQG"  target="_biank">小浠官方Discord</a></li>
+              </ul>
+        </nav>
+        <header>
+            <h1>&nbsp;&nbsp;觀浠中繼站&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.youtube.com/c/%E6%B5%A0MizukiChannel/join"
+                   style="color:rgb(246, 190, 205);"
+                   style="text-decoration: none;"
+                   target="_biank">成為北極星</a></h1>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               生活中缺少浠望嗎&nbsp;?&nbsp;歡迎加入北極星，一起觀浠&nbsp;!&nbsp;!</p>
+        </header>
+        <main>        <!--圖片需先上傳github 並在圖片位址後加上 ?raw=true-->
+            <img src="https://github.com/mizuki0723/mizuki0723.github.io/blob/main/%E5%B0%8F%E6%B5%A0%E5%88%9D%E9%85%8D.png?raw=true" width="594" height="324"><br>
+        </main>
+        <aside>
+            <ul>      <!--此處直接套用上方導覽列，需再構思-->
+                <li><a href="https://youtu.be/O0uH8ZJqUy8" 
+                       target="_biank">小浠原創曲Orignal&nbsp;Song&nbsp;&nbsp;&nbsp;
+                                       未知未踏アルスハイル</a></li>
+                <li><a href="https://youtu.be/EuKWTBHuCcs" 
+                       target="_biank">小浠歌ってみたSong&nbsp;Cover&nbsp;&nbsp;&nbsp;
+                                       一度だけの恋なら <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ 久遠たま & 浠Mizuki</a></li>
+                <li><a href="https://youtu.be/fRVbItiXLoo" 
+                       target="_biank">小浠歌ってみたSong&nbsp;Cover&nbsp;&nbsp;&nbsp;
+                                       ピニャコラーダ <br>/ KSP & 浠Mizuki</a></li>
+                <li><a href="https://youtu.be/-tUpxR5T84w" 
+                       target="_biank">小浠歌ってみたSong&nbsp;Cover&nbsp;&nbsp;&nbsp;
+                                       Nectar <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ HACHI & 浠Mizuki</a></li>
+            </ul>
+            <p>近期歌回&ensp;
+                <a href="https://youtu.be/0Nly1sEQUxY" 
+                   style="text-decoration:none;"
+                   target="_biank">HoneyWorks限定歌回&ensp;</a>
+                <a href="https://youtu.be/A0rGG5yQqsQ" 
+                   style="text-decoration:none;"
+                   target="_biank">睡飽飽深夜歌回&ensp;</a>
+                <a href="https://youtu.be/dnRpPieRaLg" 
+                   style="text-decoration:none;"
+                   target="_biank">午間唱唱突襲歌回&ensp;</a>
+                <a href="https://youtu.be/kCGHzhncYmA" 
+                   style="text-decoration:none;"
+                   target="_biank">Friday Night歌回</a>
+            </p>
+        </aside>
+        <footer>
+            <p>&copy; 2022北極星衛隊&nbsp;
+            <a href="https://www.youtube.com/watch?v=GAVO3bH5kBM" 
+               style="text-decoration:none;" 
+               target="_biank">聖夜ASMR</a></p>
+        </footer>
+    </body>
+</html>
